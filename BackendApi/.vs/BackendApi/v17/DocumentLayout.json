@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\trainersschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\trainersschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\usernutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\usernutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\usertrainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\usertrainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\usertoachievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\usertoachievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\usertodialogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\usertodialogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\usertorulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\usertorulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\dialogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\dialogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\groupmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\groupmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\messageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\messageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\photouserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\photouserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\publicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\publicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978A4B36-062E-49C6-9E1B-CD59FEEA3D38}|BackendApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DA3204-C8AB-4AD2-8B63-F2CA972EA8E6}|..\\DataAccess\\DataAccess.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DA3204-C8AB-4AD2-8B63-F2CA972EA8E6}|..\\DataAccess\\DataAccess.csproj|c:\\users\\otec\\desktop\\lab 3 russu\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainersScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\TrainersScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainersScheduleController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\TrainersScheduleController.cs",
+              "RelativeToolTip": "Controllers\\TrainersScheduleController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:18:30.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserNutritionController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserNutritionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserNutritionController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserNutritionController.cs",
+              "RelativeToolTip": "Controllers\\UserNutritionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:16:24.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserTrainingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserTrainingController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserTrainingController.cs",
+              "RelativeToolTip": "Controllers\\UserTrainingController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:14:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserToAchievementsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserToAchievementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserToAchievementsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserToAchievementsController.cs",
+              "RelativeToolTip": "Controllers\\UserToAchievementsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:11:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserToDialogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserToDialogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserToDialogsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserToDialogsController.cs",
+              "RelativeToolTip": "Controllers\\UserToDialogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:09:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserToRuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserToRuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserToRuleController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserToRuleController.cs",
+              "RelativeToolTip": "Controllers\\UserToRuleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:06:44.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AchievementsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\AchievementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AchievementsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\AchievementsController.cs",
+              "RelativeToolTip": "Controllers\\AchievementsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:03:32.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:56:41.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DialogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\DialogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DialogsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\DialogsController.cs",
+              "RelativeToolTip": "Controllers\\DialogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:35:57.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FriendController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\FriendController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FriendController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\FriendController.cs",
+              "RelativeToolTip": "Controllers\\FriendController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:32:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\GroupMembersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupMembersController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\GroupMembersController.cs",
+              "RelativeToolTip": "Controllers\\GroupMembersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:30:23.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:25:48.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\MessageUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessageUsersController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\MessageUsersController.cs",
+              "RelativeToolTip": "Controllers\\MessageUsersController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:22:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhotoUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\PhotoUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhotoUsersController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\PhotoUsersController.cs",
+              "RelativeToolTip": "Controllers\\PhotoUsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:18:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NutritionController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\NutritionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NutritionController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\NutritionController.cs",
+              "RelativeToolTip": "Controllers\\NutritionController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:14:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:10:53.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PublicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\PublicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicationController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\PublicationController.cs",
+              "RelativeToolTip": "Controllers\\PublicationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:08:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:00:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:57:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "Controllers\\TrainingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:08:19.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Models\\Trainer.cs",
+              "RelativeToolTip": "Models\\Trainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:03:35.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "Controllers\\TrainerController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:00:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:17:16.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:01:38.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BackendApi",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\BackendApi.csproj",
+              "RelativeDocumentMoniker": "BackendApi.csproj",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\BackendApi.csproj",
+              "RelativeToolTip": "BackendApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T08:50:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T08:49:03.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:38:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Lab 3 Russu\\BackendApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:36:52.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
